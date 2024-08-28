@@ -55,3 +55,9 @@ Through this project, I have gained a deeper understanding of:
 ## Acknowledgements
 
 Special thanks to [Dave Gray](https://github.com/gitdagray) for providing an excellent learning resource that guided me through the process of creating a responsive card design.
+
+## Contact
+
+Feel free to reach out for collaborations or work opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/john-jerry-ginon-0b5539314/) | [GitHub](https://github.com/jjmginon9231/) | [Upwork](https://www.upwork.com/freelancers/~01432eb5f90e315e15?mp_source=share)
